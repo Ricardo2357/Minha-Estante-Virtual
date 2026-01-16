@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Estante Virtual - Adicionar Review</title>
+    <link rel="icon" href="../assets/images/Logo-Minha-Estante-Virtual.png">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="header-div">
+            <div class="logotipo">
+                <a href="../index.html">
+                    <img class="img-header" src="../assets/images/Logo-Minha-Estante-Virtual.png" alt="Logo Minha Estante Virtual">
+                    <span>Minha Estante Virtual</span>
+                </a>
+            </div>
+            <nav>
+                <a class="btn-add-review" href="../index.html" aria-label="Adicionar Review"><p>+</p></a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section>
+            <div>
+                <form class="form-add-review">
+                    <div>
+                        <h1>Nova Review</h1>
+                    </div>
+                    <div class="input-group">
+                        <label for="book-name">Nome do Livro:</label>
+                        <input type="text" id="book-name" placeholder="Digite o Nome do Livro">
+                    </div>
+            
+                    <div class="input-group">
+                        <label for="book-witrer">Nome do Autor:</label>
+                        <input type="text" id="book-witrer" placeholder="Digite o Nome do Autor">
+                    </div>
+
+                    <div class="input-group">
+                        <label for="read-date">Data da Leitura:</label>
+                        <input type="date" id="read-date">
+                    </div>
+
+                   <div class="input-group">
+                        <label for="poster-url">URL da Capa:</label>
+                        <input type="text" id="poster-url" placeholder="Coloque a URL da Capa (JPG or PNG)">
+                    </div>
+
+                    <div class="select-group">
+                        <div class="input-group">
+                            <label for="rating-select">Stars</label>
+                            <select id="rating-select">
+                                <option value="">Escolha sua Avaliação:</option>
+                                <option value="1">★☆☆☆☆ - 1 Estrela</option>
+                                <option value="2">★★☆☆☆ - 2 Estrelas</option>
+                                <option value="3">★★★☆☆ - 3 Estrelas</option>
+                                <option value="4">★★★★☆ - 4 Estrelas</option>
+                                <option value="5">★★★★★ - 5 Estrelas</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="review-text">Minha Review:</label>
+                        <textarea id="review-text" rows="5" placeholder="Escreva sua Review Aqui..."></textarea>
+                    </div>
+
+                    <button type="submit" class="submit-btn">Adicionar</button>
+                </form>
+            </div>            
+        </section>
+    </main>
+
+    <footer>
+        <p>Minha Estante Virtual &ndash; &copy; 2026</p>
+    </footer>
+</body>
+
+</html>
