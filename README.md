@@ -1,5 +1,6 @@
 # Minha-Estante-Virtual
 
+Este projeto consiste em uma Estante Virtual desenvolvida como uma plataforma de avaliação literária, que permite ao usuário visualizar leituras e suas avaliações. Através de uma interface composta por cards, o visitante pode navegar por livros avaliados e acessar páginas de detalhes para cada obra. Vale ressaltar que o projeto é focado exclusivamente no front-end, ou seja, o formulário de avaliação é apenas ilustrativo para demonstração de interface.
 
 <p align="left">
   <img src="assets/images/preview-minha-estante-virtual.png" alt="Preview do Site Minha Estante Virtual" width="600">
@@ -7,7 +8,7 @@
 
 ## Sobre o Projeto
 
-O objetivo deste site é melhorar minhas habilidades em html e css. Ele foi desenvolvido .
+O objetivo deste site é melhorar minhas habilidades em html e css. Ele foi desenvolvido para praticar conceitos de estruturação semântica, estilização avançada e design responsivo.
 
 ## Tecnologias
 
@@ -18,16 +19,24 @@ O objetivo deste site é melhorar minhas habilidades em html e css. Ele foi dese
 
 Visite o site aqui:
 
-
+https://ricardo2357.github.io/Minha-Estante-Virtual/
 
 ## Estrutura do Projeto
 
 ```
-Site-Pessoal-Sobre-Mim/
-├── index.html
-├── style.css
+├── assets/
+│   └── images/
+│       ├── Capa-A-História-de-Iqbal.png
+│       ├── previe-minha-estante-virtual.png
+│       └── Logo-Minha-Estante-Virtual.png
+│   └── css
+│       └── style.css
+│   └── pages/
+│       ├── add-book.png
+│       └── details-a-historia-de-iqbal.png
 ├── LICENSE
-└── README.md
+├── README.md
+└── index.html
 ```
 
 ## Licença 
