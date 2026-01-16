@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="images/preview-minha-estante-virtual.png" alt="Preview do Site Minha Estante Virtual" width="600">
+  <img src="assets/images/preview-minha-estante-virtual.png" alt="Preview do Site Minha Estante Virtual" width="600">
 </p>
 
 ## Sobre o Projeto
