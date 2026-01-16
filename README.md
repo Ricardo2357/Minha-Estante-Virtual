@@ -8,7 +8,7 @@ Este projeto consiste em uma Estante Virtual desenvolvida como uma plataforma de
 
 ## Sobre o Projeto
 
-O objetivo deste site é melhorar minhas habilidades em html e css. Ele foi desenvolvido para praticar conceitos de estruturação semântica, estilização avançada e design responsivo.
+O objetivo deste site é melhorar minhas habilidades em HTML5 e CSS3. Ele foi desenvolvido para praticar conceitos de estruturação semântica, estilização avançada e design responsivo.
 
 ## Tecnologias
 
@@ -27,8 +27,8 @@ https://ricardo2357.github.io/Minha-Estante-Virtual/
 ├── assets/
 │   └── images/
 │       ├── Capa-A-História-de-Iqbal.png
-│       ├── previe-minha-estante-virtual.png
-│       └── Logo-Minha-Estante-Virtual.png
+│       ├── Logo-Minha-Estante-Virtual.png
+│       └── previe-minha-estante-virtual.png
 │   └── css
 │       └── style.css
 │   └── pages/
