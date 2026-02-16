@@ -28,7 +28,7 @@ https://ricardo2357.github.io/Minha-Estante-Virtual/
 │   └── images/
 │       ├── Capa-A-História-de-Iqbal.png
 │       ├── Logo-Minha-Estante-Virtual.png
-│       └── previe-minha-estante-virtual.png
+│       └── preview-minha-estante-virtual.png
 │   └── css
 │       └── style.css
 │   └── pages/
