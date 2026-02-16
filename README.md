@@ -32,8 +32,8 @@ https://ricardo2357.github.io/Minha-Estante-Virtual/
 ├── css/
 │   └── style.css
 ├── pages/
-│   ├── add-book.png
-│   └── details-a-historia-de-iqbal.png
+│   ├── add-book.html
+│   └── details-a-historia-de-iqbal.html
 ├── LICENSE
 ├── README.md
 └── index.html
