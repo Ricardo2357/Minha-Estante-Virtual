@@ -29,11 +29,11 @@ https://ricardo2357.github.io/Minha-Estante-Virtual/
 │       ├── Capa-A-História-de-Iqbal.png
 │       ├── Logo-Minha-Estante-Virtual.png
 │       └── preview-minha-estante-virtual.png
-│   └── css
-│       └── style.css
-│   └── pages/
-│       ├── add-book.png
-│       └── details-a-historia-de-iqbal.png
+├── css/
+│   └── style.css
+├── pages/
+│   ├── add-book.png
+│   └── details-a-historia-de-iqbal.png
 ├── LICENSE
 ├── README.md
 └── index.html
