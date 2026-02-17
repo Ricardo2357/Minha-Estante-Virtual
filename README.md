@@ -24,6 +24,7 @@ https://ricardo2357.github.io/Minha-Estante-Virtual/
 ## Estrutura do Projeto
 
 ```
+Minha-Estante-Virtual
 ├── assets/
 │   └── images/
 │       ├── Capa-A-História-de-Iqbal.png
